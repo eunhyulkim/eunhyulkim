@@ -2,6 +2,43 @@
 
 [![eunhkim's 42 stats](https://badge42.herokuapp.com/api/stats/eunhkim)](https://github.com/eunhyulkim/badge42)
 
+📚 I am working on a **transcendence** project that makes a game service with rails and backbone.js.
+
+🚀 I want to create an **online education service** that combines **gamification**.
+
+---
+
+### Career 📁
+
+- 2014 ~ 2016 | Education desgin at HeadFlow
+- 2016 ~ 2018 | Organizational innovation at Moduda
+- 2018 ~ 2019 | Educational toolkit design at AwesomeSchool
+- 2019 ~ | Creating toolkits for innovation at Nextomorrow
+- 2020 ~ | Learning development at 42Seoul
+
+---
+
+### Working Process ⌨️
+
+```c
+t_innovation	eunhyulkim(t_problem new_problem)
+{
+    t_innovation result;
+    
+    while(true)
+    {
+        define(&problem);
+        research(&problem);
+        result = develop(&problem);
+        observe(&result);
+        if (evaluation(&result) == SUCCESS)
+          break ;
+        sleep(ENOUGH_REST_TIME);
+    }
+    return (result);
+}
+```
+
 ---
 
 ### Skills 🍭
