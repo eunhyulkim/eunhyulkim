@@ -17,6 +17,11 @@
 - 2020 ~ | Learning development at 42Seoul
 
 ---
+### Present for 42 cadet 🎁
+
+- c++ extension: https://github.com/eunhyulkim/cppp
+- webserv tutorial: https://42seoul.gitbook.io/webserv/
+- transcendence overview: to be updated
 
 ### Working Process ⌨️
 
