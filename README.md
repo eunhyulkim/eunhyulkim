@@ -21,7 +21,7 @@
 
 - c++ extension: https://github.com/eunhyulkim/cppp
 - webserv tutorial: https://42seoul.gitbook.io/webserv/
-- transcendence overview: to be updated
+- transcendence overview: https://oxr9dcirohx.typeform.com/to/YjDFZXDU
 
 ### Working Process ⌨️
 
